@@ -1,0 +1,14 @@
+C:\Users\Alejandro Gallardo\Documents\webapicore\contactos\bin\Debug\netcoreapp2.2\contactos.deps.json
+C:\Users\Alejandro Gallardo\Documents\webapicore\contactos\bin\Debug\netcoreapp2.2\contactos.runtimeconfig.json
+C:\Users\Alejandro Gallardo\Documents\webapicore\contactos\bin\Debug\netcoreapp2.2\contactos.runtimeconfig.dev.json
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\bin\Debug\netcoreapp2.2\contactos.dll
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\bin\Debug\netcoreapp2.2\contactos.pdb
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.csprojAssemblyReference.cache
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.csproj.CoreCompileInputs.cache
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.RazorAssemblyInfo.cache
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.RazorAssemblyInfo.cs
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.AssemblyInfoInputs.cache
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.AssemblyInfo.cs
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.RazorTargetAssemblyInfo.cache
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.dll
+c:\Users\Alejandro Gallardo\Documents\webapicore\contactos\obj\Debug\netcoreapp2.2\contactos.pdb
